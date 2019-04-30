@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/mlnlp.iml" filepath="$PROJECT_DIR$/.idea/mlnlp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mlproj/.idea/mlproj.iml" filepath="$PROJECT_DIR$/../mlproj/.idea/mlproj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mltool/.idea/mltool.iml" filepath="$PROJECT_DIR$/../mltool/.idea/mltool.iml" />
+    </modules>
+  </component>
+</project>
